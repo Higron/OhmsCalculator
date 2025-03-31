@@ -1,2 +1,2 @@
 # OhmsCalculator
-shit calculator
+Calculator for Research
